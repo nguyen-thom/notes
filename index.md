@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Nguyen Thom Note Pages
 
 You can use the [editor on GitHub](https://github.com/nguyen-thom/notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
